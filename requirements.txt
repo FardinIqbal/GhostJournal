@@ -1,0 +1,12 @@
+httpx<0.25
+fastapi
+uvicorn
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+celery
+redis
+matplotlib
+alpaca-trade-api
+pydantic
+pytest
